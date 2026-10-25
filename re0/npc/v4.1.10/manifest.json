@@ -1,0 +1,596 @@
+{
+  "version": "V4.1.10",
+  "description": "Re:Zero NPC图鉴角色全身图及包含全身的设定图。图像原样托管；角色美术版权归原权利方所有。",
+  "assets": [
+    {
+      "id": "subaru",
+      "file": "subaru.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/1c.webp?v2",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 48952,
+      "sha256": "96765bd0fc8803b53642f6f1bc1e133e5d158bed245d57dfe1a6d3ed6b9e52cf"
+    },
+    {
+      "id": "emilia",
+      "file": "emilia.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/2a.webp?v2",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 68406,
+      "sha256": "44b295e9e644058742b69ece56fd9bb91e034908a1d5c3840393a27ea5e4cdc9"
+    },
+    {
+      "id": "puck",
+      "file": "puck.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/3.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 64007,
+      "sha256": "894b0b394dbc443664e844a77def2f6c26c5a0c957ddfd92835217b803df06f5"
+    },
+    {
+      "id": "rem",
+      "file": "rem.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/4.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 152637,
+      "sha256": "973a2d078b3ba6826f9b5f61af542e965406a6ca2edc1a317ce3ea4231551a30"
+    },
+    {
+      "id": "ram",
+      "file": "ram.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/5c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 87132,
+      "sha256": "c86f4a0543c9de57d858aab069ed1bd140244b4f0db2f7e8df2972f4f4c3985f"
+    },
+    {
+      "id": "beatrice",
+      "file": "beatrice.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/6a.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 125040,
+      "sha256": "9f8cf59419d6eff18412a9957bce14ad53c394664933f129f7000d890a8b999a"
+    },
+    {
+      "id": "roswaal",
+      "file": "roswaal.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/7b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 86654,
+      "sha256": "845f507bf46339379a6bd4eaa6bb4433fff52a3cd304408c370235b31d4390aa"
+    },
+    {
+      "id": "felt",
+      "file": "felt.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/8b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 70614,
+      "sha256": "3fc9049ab78d92fdf2917bcdfcd762a19eb292b81e5b1558c4edb7e9f3a09f76"
+    },
+    {
+      "id": "reinhard",
+      "file": "reinhard.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/9b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 94074,
+      "sha256": "3adc1245350715cb71836aaf3475efb602e0e43fd7313c866d5506b9efff187f"
+    },
+    {
+      "id": "crusch",
+      "file": "crusch.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/10b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 58092,
+      "sha256": "2dd57424c2f47c6b7a27587a543ef3c1e02b7d1c0764152b4921d8de55702ec7"
+    },
+    {
+      "id": "felix",
+      "file": "felix.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/11c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 91538,
+      "sha256": "3e68e595e8385a2444cedd337667fcab49be0c1eae4d9c1588b3d42ead914293"
+    },
+    {
+      "id": "wilhelm",
+      "file": "wilhelm.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/12.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 48332,
+      "sha256": "69ecae655af1fa546876956cd0984c73df2323238b4ace6223ff673a19c8284b"
+    },
+    {
+      "id": "anastasia",
+      "file": "anastasia.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/13c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 78796,
+      "sha256": "43f50386554154ff0d12526d35513c1bbc486972bb535222e4c1452d617a98c6"
+    },
+    {
+      "id": "julius",
+      "file": "julius.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/14c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 81166,
+      "sha256": "8e7a3cb823a0fe0cf43b18915f389724d06e18332f41fb7983a9c342a3e7beb5"
+    },
+    {
+      "id": "priscilla",
+      "file": "priscilla.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/15c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 97168,
+      "sha256": "eab6dbb61b4e8c1b5396c41ab41d839bf02aa5482e225b39619b020b5f0dc8bc"
+    },
+    {
+      "id": "al",
+      "file": "al.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/16c.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 90972,
+      "sha256": "a67050bc9c22dc83af71262a74a2bb628b050c185ea8db232cb04fbdc600fbd6"
+    },
+    {
+      "id": "elsa",
+      "file": "elsa.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/17.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 56692,
+      "sha256": "b8cc9706c6cf9cb986bc5b03811cdff4b0e00e60443d2402707b91b19d6dfe90"
+    },
+    {
+      "id": "petelgeuse",
+      "file": "petelgeuse.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/18.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 183605,
+      "sha256": "6075391fd36e80d2d72ad0bd2e565e9143e570baf6a7c4ae25ac91431df0e38b"
+    },
+    {
+      "id": "frederica",
+      "file": "frederica.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/19.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 62530,
+      "sha256": "8d405da2619bcb5c40bb13b1329c7531f5ae96568156329bfad01009df87ae4b"
+    },
+    {
+      "id": "petra",
+      "file": "petra.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/20.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 64464,
+      "sha256": "33171e4fe5d62591c3eee218367b57339011f64b72bdbe7c7f0f1a49ab2311ed"
+    },
+    {
+      "id": "otto",
+      "file": "otto.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/21.webp?v2",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 61336,
+      "sha256": "074435e355c80ca90cbe3ae0f1afe001c179b5a1cafc557b2d8c81dc6ebee9b4"
+    },
+    {
+      "id": "meili",
+      "file": "meili.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/22b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 64914,
+      "sha256": "f05a53ec9549eed0c0052953b326b841a46c7f3e3894b29ce8f2fa650ae4119f"
+    },
+    {
+      "id": "garfiel",
+      "file": "garfiel.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/23.webp?v2",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 71432,
+      "sha256": "bb587d3941ac8793d03f3c15a68f40bd926e91d898269d46675652559c1a7802"
+    },
+    {
+      "id": "ryuzu",
+      "file": "ryuzu.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/24.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 110719,
+      "sha256": "e34a911babc447d4d42378d4d2781bdd9bd13c3ed12a20b628abbf2ae6a57f5a"
+    },
+    {
+      "id": "echidna",
+      "file": "echidna.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/25.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 165867,
+      "sha256": "df9b5592b2f50c30e7b0ee7a461603154e5052d9f4a091ce30076920a8d70025"
+    },
+    {
+      "id": "minerva",
+      "file": "minerva.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/26.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 150807,
+      "sha256": "a65dcf61f819abb7670776860b6d1f9c1c12b5b2d96f12cff1d1fee9a6f18287"
+    },
+    {
+      "id": "daphne",
+      "file": "daphne.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/27.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 176894,
+      "sha256": "1de0ecf06f8afb430d2c785a263a76a092950f0d082d753034698f132e1d9fb0"
+    },
+    {
+      "id": "typhon",
+      "file": "typhon.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/28.png?0901",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 98240,
+      "sha256": "db587905af186df05988748ba029dd563e547e3952fdc88aee9136007015e6cf"
+    },
+    {
+      "id": "sekhmet",
+      "file": "sekhmet.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/29.png?0924",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 225037,
+      "sha256": "e5a660d03cd45fa067ba784b471fb818429abc6d72a66ee494addae9cd9e553a"
+    },
+    {
+      "id": "carmilla",
+      "file": "carmilla.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/30.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 68844,
+      "sha256": "d0f0d77a5688d884909e1e714416d013d4996b6be6bd1c3b04cc719b33cf890f"
+    },
+    {
+      "id": "regulus",
+      "file": "regulus.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/32b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 70168,
+      "sha256": "ae76d2fb74a727b90d738bc46559652145b4e2fc0da17b97cb9ee5c676aeee48"
+    },
+    {
+      "id": "lye",
+      "file": "lye.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/33b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 51412,
+      "sha256": "d45aab9cd485cf6217bc7976b663956a5dfe2da85e633c542a09e91f87e1984b"
+    },
+    {
+      "id": "patrasche",
+      "file": "patrasche.png",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/34.png",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 58381,
+      "sha256": "c66115e7463a86d0d4b9142abd9f125a60d30959375fa6c4c40188fd4134feae"
+    },
+    {
+      "id": "liliana",
+      "file": "liliana.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/35b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 124460,
+      "sha256": "b7a17dccf6457a45c00b73deba6dd1a2d95e8d65ab198307d7b28e0dd6ab2967"
+    },
+    {
+      "id": "sirius",
+      "file": "sirius.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/36.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 141926,
+      "sha256": "228fd21643dd4babc9830463491c1d8bb8844cf8fc8f00dbd3e09ade2d23fe7c"
+    },
+    {
+      "id": "joshua",
+      "file": "joshua.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/37.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 53358,
+      "sha256": "d52ca20bdb1bbec95ace76dd32a528678b9eb003fa8b47171e536ae3ad090be0"
+    },
+    {
+      "id": "kiritaka",
+      "file": "kiritaka.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/38.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 61088,
+      "sha256": "82bd4101501abcc07c77f7102745b406eb911b7b50f74f94379467193800380d"
+    },
+    {
+      "id": "heinkel",
+      "file": "heinkel.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/39.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 64906,
+      "sha256": "cc52dd32cded289b5b2f56860cd01e2b61d688cedf081d767bea6e8703e6e88e"
+    },
+    {
+      "id": "capella",
+      "file": "capella.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/40b.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 82162,
+      "sha256": "be3f7a380fd03506896b90ab8c3cd5a77728888a65594c7fa4c699077eb47dc4"
+    },
+    {
+      "id": "mimi",
+      "file": "mimi.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/41.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 62352,
+      "sha256": "69a1ba288f813937cce94c1b3f59441f90a6d933ff68ecac3eb523406cfc5ccb"
+    },
+    {
+      "id": "hetaro",
+      "file": "hetaro.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/42.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 52870,
+      "sha256": "e50327efe678ed43c6de92af9c5fa6e3f7596ff91c32511778742cf798569589"
+    },
+    {
+      "id": "tivey",
+      "file": "tivey.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/43.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 64782,
+      "sha256": "e78b1055ccc374d54b4b92b509de2a59f0a42146634ed3b670d24e2f12cda55a"
+    },
+    {
+      "id": "ricardo",
+      "file": "ricardo.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/44.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 81898,
+      "sha256": "9dfff9df0d2ce322248601f3c9fce5cbc82ea5dabc6f83a278df8d2e2dcbecf4"
+    },
+    {
+      "id": "shaula",
+      "file": "shaula.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/45.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 89066,
+      "sha256": "3cb86649796c7d3d1b4888dcb920829f6864a17eeb1ad3a6ade5d34540157491"
+    },
+    {
+      "id": "reid",
+      "file": "reid.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/46.webp?v2",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 77758,
+      "sha256": "6760abdae204d9b609082532481cffc29cd6c1bccb556982bb21247ffd084ed2"
+    },
+    {
+      "id": "roy",
+      "file": "roy.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/47.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 57038,
+      "sha256": "62e9717587543491b1c2b0ef18d359e80699bbe2e0f655e6e9634560e99bcddf"
+    },
+    {
+      "id": "louis",
+      "file": "louis.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/48.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 118886,
+      "sha256": "6f704edb88be8ea36ccf736c6471dd3e3d3e748f83eeee02cfd5ead7d3c7dc19"
+    },
+    {
+      "id": "volcanica",
+      "file": "volcanica.webp",
+      "sourceImage": "https://re-zero-anime.jp/tv/assets/character/c/49.webp",
+      "sourcePage": "https://re-zero-anime.jp/tv/character/",
+      "credit": "TV动画 Re:从零开始的异世界生活 官方角色页；原图版权归原权利方所有。",
+      "kind": "official-full-body",
+      "bytes": 141112,
+      "sha256": "3a6e68a1ae5f5ca10d30e0f723623c2c30b4e5ca7b8f642a2fbb86f36929f083"
+    },
+    {
+      "id": "rom",
+      "file": "rom.png",
+      "sourceImage": "https://www.tv-tokyo.co.jp/anime/re-zero/images/chara/chara11.png",
+      "sourcePage": "https://www.tv-tokyo.co.jp/anime/re-zero/chara/",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "动画角色设定图",
+      "kind": "source-character-art",
+      "bytes": 299022,
+      "sha256": "47717f5b585cdd58305eb7a5407f304f9c110a386280d81cca2920f748939e63"
+    },
+    {
+      "id": "ton",
+      "file": "ton.png",
+      "sourceImage": "https://www.tv-tokyo.co.jp/anime/re-zero/images/chara/chara12.png",
+      "sourcePage": "https://www.tv-tokyo.co.jp/anime/re-zero/chara/",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "动画角色设定图",
+      "kind": "source-character-art",
+      "bytes": 230581,
+      "sha256": "3913fcbb81325dd11c6597d38b9aba99d2be8e79fcd0caab2be8e9e919da3efa"
+    },
+    {
+      "id": "cecilus",
+      "file": "cecilus.png",
+      "sourceImage": "https://static.wikia.nocookie.net/rezero/images/c/c9/Cecilus_Segmunt_cutout.png/revision/latest?cb=20230527060240",
+      "sourcePage": "https://rezero.fandom.com/wiki/Cecilus_Segmunt",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色立绘",
+      "kind": "source-character-art",
+      "bytes": 74834,
+      "sha256": "2b7a2145c21912d009dc43bba54896dd480b3bf87b27737b96f4a80f69407803"
+    },
+    {
+      "id": "vincent",
+      "file": "vincent.jpg",
+      "sourceImage": "https://vignette.wikia.nocookie.net/rezero/images/9/99/Vincent_Vollachia_Without_Sample.jpg/revision/latest?cb=20191209170758",
+      "sourcePage": "https://rezero.fandom.com/wiki/Vincent_Vollachia",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色立绘",
+      "kind": "source-character-art",
+      "bytes": 45868,
+      "sha256": "3155948bb547967ec874848f629bed39335e38e51a0f690b2c497200859449d2"
+    },
+    {
+      "id": "arakiya",
+      "file": "arakiya.jpg",
+      "sourceImage": "https://pbs.twimg.com/media/FU8IH6rVIAAv0J_.jpg",
+      "sourcePage": "https://x.com/ike_edi/status/1535455533120954368",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色设定图",
+      "kind": "source-character-art",
+      "bytes": 112461,
+      "sha256": "2bd3a8cd794e48e5c137b438567cdf3bf04e32f0d1835ab690b90109ff18b58d"
+    },
+    {
+      "id": "olbart",
+      "file": "olbart.jpg",
+      "sourceImage": "https://pbs.twimg.com/media/FU8JxoXUUAEAva_.jpg",
+      "sourcePage": "https://x.com/ike_edi/status/1535457535263526912",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色设定图",
+      "kind": "source-character-art",
+      "bytes": 309875,
+      "sha256": "9ef2c6af5b4372559d4d7c764dad3613b86509599e0f4928948d05b706dc88ac"
+    },
+    {
+      "id": "chisha",
+      "file": "chisha.jpg",
+      "sourceImage": "https://pbs.twimg.com/media/Fo6os7aakAAbyAI.jpg",
+      "sourcePage": "https://twfan.net/user/777705516403335168/new/2",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色设定图",
+      "kind": "source-character-art",
+      "bytes": 146335,
+      "sha256": "eb6f61618b60c2730e66d2890326b2eb9d33205be12727e6305b85228821713c"
+    },
+    {
+      "id": "yorna",
+      "file": "yorna.jpg",
+      "sourceImage": "https://pbs.twimg.com/media/FepAvhMaEAAbyIp.jpg",
+      "sourcePage": "https://x.com/rannoaka06/status/1579145811510054914",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色设定图",
+      "kind": "source-character-art",
+      "bytes": 99709,
+      "sha256": "c4ff2a01f552a07a580e08f39ecdab8540426aa95abe501ca6430158e1a611c1"
+    },
+    {
+      "id": "flop",
+      "file": "flop.jpg",
+      "sourceImage": "https://images-cdn.9gag.com/photo/aNpQmNG_700b.jpg",
+      "sourcePage": "https://9gag.com/gag/aNpQmNG",
+      "credit": "Re:从零开始的异世界生活 角色美术，来源见原页面；版权归原权利方所有。",
+      "label": "小说角色设定图",
+      "kind": "source-character-art",
+      "bytes": 112792,
+      "sha256": "7ca66ecb00d881ff66da4548596c742b8ac2b4ea164ae8d5c1a8d292a2505726"
+    },
+    {
+      "id": "pandora",
+      "file": "pandora-sheet.jpg",
+      "sourceImage": "https://truth.bahamut.com.tw/s01/202102/a87e2b6db85a2eea9f2b04bd26689f18.JPG",
+      "sourcePage": "https://forum.gamer.com.tw/C.php?bsn=46542&snA=4863",
+      "credit": "Re:从零开始的异世界生活 角色设定美术，来源见原页面；版权归原权利方所有。",
+      "label": "动画角色设定图",
+      "kind": "source-character-art",
+      "bytes": 179452,
+      "sha256": "9312cd0b3e3150b4f6c0315aa1604983f3496257a600518dfaae1f3fad51c74a"
+    }
+  ]
+}
